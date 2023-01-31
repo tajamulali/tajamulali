@@ -7,9 +7,9 @@ Full-stack web developer
 I've been learning to code for 4 years during and after college, started with HTML and then JavaScript, and CSS but have found a passion for backend development & WEB3.
 
 * 🌍  I'm based in Kashmir
-* 🖥️  See my portfolio at [https://tajamulali.github.io/portfolio/](http://tajamulali.github.io/nawabiangym/)
+* 🖥️  See my portfolio at [https://tajamulali.github.io/portfolio/](https://tajamulali.github.io/portfolio/)
 * ✉️  You can contact me at [nuwaib14@gmail.com](mailto:nuwaib14@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://https://tajamulali.github.io/portfolio/)
+* 🚀  I'm currently working on [My Portfolio](https://tajamulali.github.io/portfolio/)
 * 🧠  I'm learning a new framework ReactJS
 
 <a href="https://www.github.com/tajamulali" target="_blank" rel="noreferrer"><img
