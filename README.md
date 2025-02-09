@@ -9,7 +9,7 @@ I've been learning to code for 4 years during and after college, started with HT
 * 🌍  I'm based in Kashmir
 * 🖥️  See my portfolio at [portfolio](https://tajamulali.github.io/portfolio/)
 * ✉️  You can contact me at [nuwaib14@gmail.com](mailto:nuwaib14@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](https://tajamulali.github.io/myportfolio/)
+* 🚀  I'm currently working on [My Project](https://github.com/tajamulali/Pinterest)
 * 🧠  I'm learning a new framework ReactJS
 
 <a href="https://www.github.com/tajamulali" target="_blank" rel="noreferrer"><img
